@@ -81,8 +81,7 @@ gen
 #
 *.txt
 .ipynb
-*.ipynb
-*/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
 */ignore/*
 */Abstract/*
 checkins.dat
