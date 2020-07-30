@@ -81,6 +81,7 @@ gen
 #
 *.txt
 .ipynb
+*.ipynb
 */.ipynb_checkpoints/*
 */ignore/*
 */Abstract/*
